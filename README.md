@@ -59,8 +59,7 @@ signal.
 
 ## How to verify
 
-1. In Amrachi, open the verification view for the day or record you care about
-   (the *Verify* link in an evidence export, or <https://amrachi.ch/verify>).
+1. In Amrachi, open the verification view for the day or record you care about — the Verify link in an evidence export (it carries a token: amrachi.ch/verify/<token>), or try the public demo at https://amrachi.ch/verify/demo.
 2. Amrachi recomputes the anchor from the live evidence and shows you the
    value.
 3. Compare it to `anchor_sha256` in the file for that org and date in this
