@@ -1,0 +1,12 @@
+{
+  "anchor_date": "2026-09-21",
+  "anchor_hash": "89c4ae2224e734c226bcf577d4fdf48ab81fb9b920312b0d469cf178304a1433",
+  "total_events": 3,
+  "published_at": "2026-09-22T00:30:02.024Z",
+  "platform": "Amrachi",
+  "verification": {
+    "automated": "Use Amrachi's built-in verification tool",
+    "how_to_verify": "Open https://amrachi.ch/verify/amra_40732B10F25C548AB7E625EA7E812224 — no login required",
+    "notes": "Verification is automated - no manual steps required"
+  }
+}
